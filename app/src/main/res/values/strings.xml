@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">P1 2do PARCIAL</string>
+    <string name="tituloopcion">MANEJO DE RADIOS DE SELECCION.</string>
+    <string name="seleccarrera">SELECCIONA TU CARRERA:</string>
+    <string name="risc">ISC.</string>
+    <string name="rtics">TICS.</string>
+    <string name="rambiental">Ing Ambiental.</string>
+    <string name="rgast">Gastronomia.</string>
+    <string name="mensaje">MENSAJE</string>
+    <string name="titulo">USO DE INTERNET:</string>
+    <string name="tcasa">Casa</string>
+    <string name="tescuela">Escuela</string>
+    <string name="ttrabajo">Trabajo</string>
+</resources>
